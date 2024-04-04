@@ -29,59 +29,30 @@ httpx==0.27.0
 hyperlink==21.0.0
 idna==3.4
 incremental==22.10.0
-ipykernel @ file:///D:/bld/ipykernel_1698244157926/work
-ipython @ file:///D:/bld/ipython_1698846796959/work
-joblib @ file:///C:/b/abs_1anqjntpan/croot/joblib_1685113317150/work
-jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1699283905679/work
-jupyter_core @ file:///D:/bld/jupyter_core_1698673856358/work
 keras==2.10.0
 Keras-Preprocessing==1.1.2
-kiwisolver @ file:///C:/b/abs_88mdhvtahm/croot/kiwisolver_1672387921783/work
 libclang==16.0.6
-llvmlite @ file:///C:/b/abs_458aeunq7a/croot/llvmlite_1697031108211/work
 Markdown==3.5.1
 MarkupSafe==2.1.3
-matplotlib @ file:///C:/b/abs_e26vnvd5s1/croot/matplotlib-suite_1698692153288/work
-mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
-mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
 mkl-service==2.4.0
 munkres==1.1.4
-nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1697083700168/work
-nltk @ file:///C:/b/abs_a638z6l1z0/croot/nltk_1688114186909/work
-numba @ file:///C:/b/abs_3cn3szuc98/croot/numba_1697057679468/work
-numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
-numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
 oauthlib==3.2.2
 opt-einsum==3.3.0
-packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
-pandas @ file:///C:/b/abs_81b3npjrl8/croot/pandas_1697477219064/work/dist/pandas-2.1.1-cp310-cp310-win_amd64.whl#sha256=f5efc0086b0ee45b0ebca3e44e872d36cff14a3242807897e41b9165b5625901
-Pillow @ file:///C:/b/abs_20ztcm8lgk/croot/pillow_1696580089746/work
 ply==3.11
 protobuf==3.19.6
-psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
 pyarrow==11.0.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.22
 pyOpenSSL==24.1.0
-pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
 PyQt5==5.15.10
-PyQt5-sip @ file:///C:/b/abs_c0pi2mimq3/croot/pyqt-split_1698769125270/work/pyqt_sip
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-telegram-bot==13.13
-pytz @ file:///C:/b/abs_19q3ljkez4/croot/pytz_1695131651401/work
 pywin32==305.1
-pyzmq @ file:///D:/bld/pyzmq_1660329059232/work
-regex @ file:///C:/b/abs_d5e2e5uqmr/croot/regex_1696515472506/work
 requests==2.31.0
 requests-oauthlib==1.3.1
 rsa==4.9
-scikit-learn @ file:///C:/b/abs_55olq_4gzc/croot/scikit-learn_1690978955123/work
 scipy==1.11.3
-seaborn @ file:///C:/b/abs_68ltdkoyoo/croot/seaborn_1673479199997/work
 service-identity==24.1.0
-sip @ file:///C:/b/abs_edevan3fce/croot/sip_1698675983372/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
 sniffio==1.3.1
 sqlparse==0.4.4
 tensorboard==2.10.1
@@ -91,14 +62,9 @@ tensorflow==2.10.1
 tensorflow-estimator==2.10.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
-tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
-tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
 Twisted==24.3.0
 twisted-iocpsupport==1.0.4
 txaio==23.1.1
-tzdata @ file:///croot/python-tzdata_1690578112552/work
 tzlocal==5.2
 urllib3==2.1.0
 Werkzeug==3.0.1
