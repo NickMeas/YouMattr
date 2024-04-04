@@ -46,4 +46,7 @@ pycparser==2.22
 pyOpenSSL==24.1.0
 PyQt5==5.15.10
 python-telegram-bot==13.13
-tensorflow==2.10.1
+tensorflow
+scikit-learn
+pandas
+numpy
