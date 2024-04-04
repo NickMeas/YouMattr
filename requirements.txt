@@ -29,7 +29,7 @@ httpx==0.27.0
 hyperlink==21.0.0
 idna==3.4
 incremental==22.10.0
-keras==2.10.0
+keras
 Keras-Preprocessing==1.1.2
 libclang==16.0.6
 Markdown==3.5.1
@@ -38,7 +38,6 @@ munkres==1.1.4
 oauthlib==3.2.2
 opt-einsum==3.3.0
 ply==3.11
-protobuf==3.19.6
 pyarrow==11.0.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
