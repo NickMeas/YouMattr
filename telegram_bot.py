@@ -42,8 +42,8 @@ def start(updater, context):
     updater.message.reply_text("Hello there! I am your personal mental health chatbot.")
 
 def help_(updater, context):
-    updater.message.reply_text("W.A.L.L.Y. is created to accompany those with severe social anxiety or simply as a robotic buddy\
-        for people who are feeling lonely but with the data that W.A.L.L.Y. has access to, please do not fully depend on it to help cure mental illness problems.\
+    updater.message.reply_text("WALLY. is created to accompany those with severe social anxiety or simply as a robotic buddy\
+        for people who are feeling lonely but with the data that WALLY. has access to, please do not fully depend on it to help cure mental illness problems.\
         \n This project is tasked to help those whose voices are not heard simply due to fear of being judged by others \
         \n\n -Nak")    
     
